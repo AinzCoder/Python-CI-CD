@@ -7,7 +7,7 @@ calculator = Calculator()
 
 
 def test_addition():
-    assert calculator.add(5, 5) == 100
+    assert calculator.add(5, 5) == 10
 
 
 def test_subtraction():
